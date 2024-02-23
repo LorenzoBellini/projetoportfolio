@@ -1,0 +1,7 @@
+No readme, quando se usa # é como se fosse u título
+quanto mais #, menor o tamanho da fonte
+
+# título
+## Subtitulo
+### Texto
+#### e por aí vai
