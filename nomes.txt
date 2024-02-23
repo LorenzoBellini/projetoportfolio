@@ -1,7 +1,9 @@
 No readme, quando se usa # é como se fosse u título
 quanto mais #, menor o tamanho da fonte
 
-# título
-## Subtitulo
-### Texto
-#### e por aí vai
+# Título <h1>
+## Título <h2>
+### Título <h3>
+#### Título <h4>
+##### Título <h5>
+###### Título <h6>
