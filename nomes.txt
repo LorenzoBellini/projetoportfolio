@@ -7,3 +7,9 @@ quanto mais #, menor o tamanho da fonte
 #### Título <h4>
 ##### Título <h5>
 ###### Título <h6>
+
+Para colocar imagens
+!("Nome que vai atribuir")[URL da imagem]
+
+Para colocar links
+["Nome que vai atribuir"](link)
