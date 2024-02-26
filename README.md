@@ -8,6 +8,11 @@ Nesse curso você vai dominar Git e **Github** _do 0 ao profissional._
 * GIT avançado.
 * Usando GitHub de forma profissional.
 
+1. Começando com GIT.
+2. Aprendendo sobre Branches.
+3. GIT avançado.
+4. Usando GitHub de forma profissional.
+
 ### Rede Social
 [**LinkedIn**](https://www.linkedin.com/in/lorenzo-bellini-710902252/)
 
