@@ -3,7 +3,10 @@
 Nesse curso você vai dominar Git e **Github** _do 0 ao profissional._
 
 ## Módulos
-_Entendendo o que é **Git**. Aprendendo sobre repositórios. **Trabalhando** com **branches**._
+* Começando com GIT.
+* Aprendendo sobre Branches.
+* GIT avançado.
+* Usando GitHub de forma profissional.
 
 ### Rede Social
 [**LinkedIn**](https://www.linkedin.com/in/lorenzo-bellini-710902252/)
