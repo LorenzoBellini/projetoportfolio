@@ -19,3 +19,7 @@ Nesse curso você vai dominar Git e **Github** _do 0 ao profissional._
 [**LinkedIn**](https://www.linkedin.com/in/lorenzo-bellini-710902252/)
 
 [**Instagram**](https://www.instagram.com/lorenzin.bellini?igsh=bzl3Y2dtMDZ6OTU=)
+
+>Este é um blockquote, usado para destacar alguma area
+>
+>Segunda area destacada
